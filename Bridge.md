@@ -42,6 +42,13 @@ TODO
 ### FL Studio
 TODO
 
+### Harrison Mixbus32C
+
+- Create a MIDI track and add the VST to the channel (scan for plugins if you don't see it).
+- Create a stereo Audio track and set the input to be from the MIDI track
+- Set the Audio track to record
+- Start recording and see the VCV output rendering in the Editor view
+
 ### Propellerhead Reason
 TODO
 
